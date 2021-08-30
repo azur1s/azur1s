@@ -1,6 +1,6 @@
 # Visitor count
 
-![cute anime girls](https://count.getloli.com/get/@n1ko23?theme=gelbooru)
+![cute anime girls](https://count.getloli.com/get/@azur1s?theme=gelbooru)
 
 # Stats
 
