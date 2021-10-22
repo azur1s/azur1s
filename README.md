@@ -6,4 +6,4 @@
 
 ![azur's github stats](https://github-readme-stats.vercel.app/api?username=azur1s&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true)
 
-![azur's top language](https://github-readme-stats.vercel.app/api/top-langs/username=azur1s&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&compact=true)
+![azur's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&theme=dracula&bg_color=00000000&hide_border=true&layout=compact)
