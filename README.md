@@ -4,15 +4,10 @@
 <p>I'm a programmer, I do stuff like game development, CLI/TUI application and other stuff.</p>
 <p>Programming is still just a hobby, I still have school work to do.</p>
 
-
-<!-- # Visitor count
-
-<p align="center">
-   <a href="https://count.getloli.com/">
-     <img src="https://count.getloli.com/get/@azur1s?theme=gelbooru">
-  </a>
- </p>
- -->
+<h2>Languages</h2>
+<a href="https://github.com/search?q=user%3Aazur1s+language%3Arust"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></img></a>
+<a href="https://github.com/search?q=user%3Aazur1s+language%3Atypescript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
+<a href="https://github.com/search?q=user%3Aazur1s+language%3Apython"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
  
 <h2>Stats</h2>
 
