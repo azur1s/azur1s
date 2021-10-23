@@ -1,11 +1,12 @@
-# Visitor count
+<!-- # Visitor count
 
 <p align="center">
    <a href="https://count.getloli.com/">
      <img src="https://count.getloli.com/get/@azur1s?theme=gelbooru">
   </a>
  </p>
-
+ -->
+ 
 # Stats
 
 <p align="center">
