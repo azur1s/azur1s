@@ -4,8 +4,8 @@
 <p>I'm a programmer, I do stuff like game development, CLI/TUI application and other stuff.
 Programming is still just a hobby, I still have school work to do.</p>
 
-<p>I use mainly <a href="https://neovim.io/">Neovim</a> as my main code editor/IDE and <a href="https://code.visualstudio.com/">VScode</a> sometimes
- you can get my neovim config <a href="https://github.com/azur1s/dotfiles">here</a> (including other config stuff too!)</p>
+<p>I use mainly <a href="https://neovim.io/">Neovim</a> as my main code editor/IDE and <a href="https://code.visualstudio.com/">VScode</a>l sometimes.
+ You can get my neovim config <a href="https://github.com/azur1s/dotfiles">here</a> (including other config stuff too!)</p>
 
 <h2>Languages</h2>
 <a href="https://github.com/search?q=user%3Aazur1s+language%3Arust"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></img></a>
