@@ -1,3 +1,10 @@
+<h2>About</h2>
+<p>I'm <a href="https://github.com/azur1s">azur1s</a>, or Natapat Samutpong as my real name. I'm currently 14 years old, Living in Thailand.</p>
+
+<p>I'm a programmer, I do stuff like game development, CLI/TUI application and other stuff.</p>
+<p>Programming is still just a hobby, I still have school work to do.</p>
+
+
 <!-- # Visitor count
 
 <p align="center">
@@ -7,7 +14,7 @@
  </p>
  -->
  
-# Stats
+<h2>Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,3 +24,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&theme=dracula&bg_color=00000000&hide_border=true&layout=compact">
   </a>
 </p>
+
+<h2>Contact</h2>
+<ul>
+   <li>
+      Website: 
+      <a href="azuris.xyz">azuris.xyz</a>
+   </li>
+   <li>Email: natapat.samutpong@gmail.com</li>
+   <li>Discord: azur#2635</li>
+</ul>
