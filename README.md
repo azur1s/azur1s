@@ -4,7 +4,7 @@
 <p>I'm a programmer, I do stuff like game development, CLI/TUI application, 3D Modeling and other stuff.
 Programming is still just a hobby, I still have school work to do.</p>
 
-<p>I use mainly <a href="https://neovim.io/">Neovim</a> as my main code editor/IDE and <a href="https://code.visualstudio.com/">VScode</a>l sometimes.
+<p>I use mainly <a href="https://neovim.io/">Neovim</a> as my main code editor/IDE and <a href="https://code.visualstudio.com/">VScode</a> sometimes.
  You can get my neovim config <a href="https://github.com/azur1s/dotfiles">here</a> (including other config stuff too!)</p>
 
 <h2>Languages</h2>
