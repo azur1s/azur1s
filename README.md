@@ -19,7 +19,7 @@ Programming is still just a hobby, I still have school work to do.</p>
     <img src="https://github-readme-stats.vercel.app/api?username=azur1s&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&theme=dracula&bg_color=00000000&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&theme=dracula&bg_color=00000000&hide_border=true&layout=compact&hide=lua">
   </a>
 </p>
 
