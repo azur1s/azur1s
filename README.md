@@ -8,9 +8,11 @@ Programming is still just a hobby, I still have school work to do.</p>
  You can get my neovim config <a href="https://github.com/azur1s/dotfiles">here</a> (including other config stuff too!)</p>
 
 <h2>Languages</h2>
-<a href="https://github.com/search?q=user%3Aazur1s+language%3Arust"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></img></a>
-<a href="https://github.com/search?q=user%3Aazur1s+language%3Atypescript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
-<a href="https://github.com/search?q=user%3Aazur1s+language%3Apython"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
+<ul>
+<li><a href="https://github.com/search?q=user%3Aazur1s+language%3Arust">Rust</a></li>
+<li><a href="https://github.com/search?q=user%3Aazur1s+language%3Atypescript">Typescript</a></li>
+<li><a href="https://github.com/search?q=user%3Aazur1s+language%3Apython">Python</a></li>
+</ul>
  
 <h2>Stats</h2>
 
