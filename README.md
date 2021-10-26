@@ -14,7 +14,7 @@ Programming is still just a hobby, I still have school work to do.</p>
  
 <h2>Stats</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=azur1s&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true">
   </a>
