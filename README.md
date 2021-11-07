@@ -8,16 +8,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&theme=nord&count_private=true&bg_color=00000000&hide_border=true&layout=compact&langs_count=10&exclude_repo=dotfiles,TrollLang">
   </a>
 </p>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 07/11/2021
-<!--END_SECTION:waka-->
