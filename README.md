@@ -1,3 +1,10 @@
+<h3 align="center">
+  Like my stuff? Consider donating to me!
+  <a href="https://ko-fi.com/azur1s">ko-fi/azur1s</a>
+</h3>
+<p align="center">Thank you in advance :D</p>
+
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=azur1s&theme=nord&background=00000000&hide_border=true&fire=00000000">
