@@ -3,7 +3,7 @@ Hi, I'm azur1s. I do stuff on here
 I'm 14 years old and currently in high school at Thailand
 
 I code Rust mainly. I used to do Typescript, Python and C#.
-I'm learning Go and Haskell
+I'm learning some functional programming :D.
 
 You can contact me at:
   Discord - azur#2635
