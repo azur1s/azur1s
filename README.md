@@ -1,4 +1,7 @@
 ```
+2022 Goals:
+  - Write a compiler (maybe for bobbylisp)
+
 Hi, I'm azur1s. I do stuff on here
 I'm 14 years old and currently in high school at Thailand
 
