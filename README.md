@@ -1,8 +1,9 @@
 
 2022 Goals:
   - [ ] Write a compiler or a transpiler (maybe for bobbylisp)
-  - [ ] Actually useful and functional portfolio website (https://azuris.xyz)
   - [ ] Learn music(?)
+  - [ ] Actually useful and functional portfolio website (https://azuris.xyz)
+###### Sorted by how much I want to do it
 
 ### About
 
@@ -19,4 +20,4 @@ You can contact me at:
 - Twitter - I don't use twitter
 
 Want to help me? you can contributes through pull request, issues and more
-or on https://ko-fi.com/azur1s if you want to help me out a bit :D
+###### Or on https://ko-fi.com/azur1s if you want to help me out a bit :D
