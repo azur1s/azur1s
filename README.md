@@ -3,6 +3,7 @@
   - [ ] Write a compiler or a transpiler (maybe for bobbylisp)
   - [ ] Learn music(?)
   - [ ] Actually useful and functional portfolio website (https://azuris.xyz)
+
 (Sorted by how much I want to do it)
 
 ### About
