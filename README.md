@@ -1,5 +1,5 @@
 2022 Goals:
-  - [ ] Write a compiler or a transpiler (maybe for bobbylisp)
+  - [ ] Write a compiler or a transpiler
   - [ ] Learn music(?)
   - [ ] Actually useful and functional portfolio website (https://azuris.xyz)
 
