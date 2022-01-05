@@ -1,12 +1,3 @@
-2022 Goals:
-  - [ ] Write a compiler or a transpiler
-  - [ ] Learn music(?)
-  - [ ] Actually useful and functional portfolio website (https://azuris.xyz)
-
-(Sorted by how much I want to do it)
-
-### About
-
 Hi, I'm azur1s. I do stuff on here.
 I'm currently 14 years old and studying in high school at Thailand
 
@@ -21,3 +12,7 @@ You can contact me at:
 
 Want to help me? you can contributes through pull request, issues and more
 or on https://ko-fi.com/azur1s if you want to help me out a bit :D
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azur1s&layout=compact&bg_color=00000000&hide_border=true&text_color=ffffff">
+</div>
