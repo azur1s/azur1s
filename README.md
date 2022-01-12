@@ -11,11 +11,12 @@ I'm learning some Go, Clojure and some functional language :D.
 </div>
 
 ### Contact
-- Discord - azur#2635
-- Instagram - @natapat_s
-- Gmail - natapat.samutpong@gmail.com
-- Twitter - I don't use twitter
-
+<ul>
+  <p>Discord: azur#2635</p>
+  <p><a href="https://www.instagram.com/natapat_s/">Instagram</a></p>
+  <p><a href="https://www.reddit.com/user/GhostTau">Reddit</a></p>
+</ul>
+  
 ### Support
 <a href="https://ko-fi.com/azur1s">
   <img src="https://raw.githubusercontent.com/azur1s/azur1s/main/assets/kofibutton.png" width="20%" height="20%">
