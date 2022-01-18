@@ -13,7 +13,7 @@ I'm learning some Go, Haskell and some functional language :D.
 ### Contact
 <ul>
   <p>Discord: azur#2635</p>
-  <p><a href="https://www.instagram.com/natapat_s/">Instagram</a></p>
+  <p><a href="https://www.instagram.com/azur1s/">Instagram</a></p>
   <p><a href="https://www.reddit.com/user/GhostTau">Reddit</a></p>
 </ul>
   
