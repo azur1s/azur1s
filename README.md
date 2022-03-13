@@ -1,4 +1,4 @@
-Hi
+hi
 
 Languages:
 - 🟩 Rust (preferred)
@@ -11,3 +11,7 @@ Languages:
 - 🟥 OCaml (still learning)
 - 🟥 Haskell (know a bit, still learning)
 - ⬜ Nim (not learning, but interested)
+
+IDEs:
+- Visual Studio Code (preferred)
+- Neovim (sometimes, usually on a single file stuff)
